@@ -1,13 +1,10 @@
+```
 ![Hwang](datou.jpg)
-
 Mei-Yuh Hwang
-
 Affiliate Professor at EE Department
-
 University of Washington
-
 mhwang at ee dot washington dot edu
-
+```
 
  Mei-Yuh received her PhD in Computer Science from Carnegie Mellon
 University in 1993 and had worked at Microsoft in U.S. and in China
